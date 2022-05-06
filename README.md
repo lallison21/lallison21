@@ -1,6 +1,14 @@
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/kamil17121998/" target="_blank">Kamalov Kamil</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Computer science student in École 42/21 School</h3>
+  
+  <h4 aling="right">I write code in C/C++ and learning Java.</h4>
+  
+![User stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lallison21&theme=solarized_dark)
+![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lallison21&theme=solarized_dark)
+![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lallison21&theme=solarized_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lallison21&theme=solarized_dark)
+![Commit by day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lallison21&theme=solarized_dark)
 
 <!--
 **lallison21/lallison21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
