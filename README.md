@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/kamil17121998/" target="_blank">Kamalov Kamil</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h3 align="center">Computer science student in École 42/21 School</h3>
 
 <!--
 **lallison21/lallison21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
