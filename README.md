@@ -10,10 +10,11 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lallison21&theme=solarized_dark)
 ![Commit by day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lallison21&theme=solarized_dark)
 
-## École 42/21 School Profile
+<h2 align="center">École 42/21 School Profile</h2>
+
 [![lallison's 42 stats](https://badge42.vercel.app/api/v2/cl6as00oj000609i1bew19y9x/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
 
-<h2 align="center">How to Reach me:</h2> 
+<h2 align="center">How to Reach me:</h2>
 <p align="center" target="blank">
 <a href="https://t.me/lallison21">
   <img alt="Telegram" width="36px" height="22" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >
