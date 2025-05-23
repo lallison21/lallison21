@@ -1,25 +1,21 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/lallison21" target="_blank">Kamalov Kamil</a>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h3 align="center">Computer science student in École 42/21 School</h3>
-  
-  <h4 aling="right">I write code in C/C++ and learning Java.</h4>
-  
-![User stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lallison21&theme=solarized_dark)
-![Top language by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lallison21&theme=solarized_dark)
-![Top language by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lallison21&theme=solarized_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lallison21&theme=solarized_dark)
-![Commit by day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lallison21&theme=solarized_dark)
+# 💫 About Me:
+I'm a Golang-developer
 
-<h2 align="center">École 42/21 School Profile</h2>
 
-[![lallison's 42 stats](https://badge42.vercel.app/api/v2/cl6as00oj000609i1bew19y9x/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lallison21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamil17121998@gmail.com) 
 
-<h2 align="center">How to Reach me:</h2>
-<p align="center" target="blank">
-<a href="https://t.me/lallison21">
-  <img alt="Telegram" width="36px" height="22" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" >
-</a>
-<a href="mailto:kamil17121998@gmail.com">
-  <img alt="Gmail" width="36px" height="22" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" >
-</a>
-</p>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lallison21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lallison21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lallison21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lallison21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lallison21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
